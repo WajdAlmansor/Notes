@@ -1,4 +1,4 @@
-# Notes – SwiftUI AppleWatch App
+# Notes – SwiftUI AppleWatch App ⌚️
 
 **Notes** is a **SwiftUI** **AppleWatch** app built as part of a learning course.
 
